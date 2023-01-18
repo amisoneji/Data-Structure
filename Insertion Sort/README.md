@@ -5,7 +5,7 @@ The  algorithm works as sorting the array partially
 
 a = [5,3,4,1,2]
 
- 0,1,2,3,4 =⇒ array indexes
+     0,1,2,3,4 -----> array indexes
 
  
 
