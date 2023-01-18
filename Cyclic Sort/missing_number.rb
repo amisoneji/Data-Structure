@@ -7,7 +7,6 @@ end
 
 def cyclic_short(nums)
     start = 0
-    
     while(start < nums.length)
         num = nums[start]
         if (num < nums.length) && (num != start)
