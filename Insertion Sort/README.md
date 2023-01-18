@@ -15,7 +15,7 @@ a = [5,3,4,1,2]
     
     3,5,4,1,2
     
-2. i= 1 to j = 2 now j always will compare LHS all elements in decrement order like the current element is greater if not greater it will swap the element till index o and sort the array from on to 
+2. i= 1 to j = 2 now j always will compare LHS all elements in decrement order like the current element is greater if not greater it will swap the element till index 0 and sort the array from on to 
     
     3,4,5,1,2
     
