@@ -1,4 +1,4 @@
-*** Cyclic Sort***
+***Cyclic Sort***
 _________________________________________________________________________________________________________________________________________________________
 
 when given numbers are from range 1 to N the cyclic sort will work perfectly
