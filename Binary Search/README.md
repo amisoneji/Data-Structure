@@ -10,19 +10,19 @@ Binary sort algo is best if we have sorted array
 - First it will find the middle element from that array
 - Take the middle element and check the target is greater then will search on left half only(now search space is become half)
 - It will repeat the task until middle become the target
-- 1st the array of size n then find the middle N  1st level —→ N
-- 2nd level the size of array become half not N become ——>N/2
-- 3rd level the size of array become half again ——→N/2^2——>N/4
-- for kth level size of the array become ———> N/2^k
+- 1st the array of size n then find the middle N  1st level --> N
+- 2nd level the size of array become half not N become --> N/2
+- 3rd level the size of array become half again --> N/2^2 --> N/4
+- for kth level size of the array become --> N/2^k
 - N=2^k
 - log(N) = log(2^k)
 - log(N) = klog2
 - K = log(N) / Log(2)
-- k = log2N (Where K is total no of level in worst case)\
+- k = log2N (Where K is total no of level in worst case)
 
-**So Best case for Binary search =⇒ Big o(1)**
+**So Best case for Binary search ---> O(1)**
 
-**Worst case for Binary search =⇒ Big Log(n)**
+**Worst case for Binary search ---> O(Log(n))**
 
 1. Find an element in a sorted array
 2. Applications of Binary Search beyond arrays
@@ -52,7 +52,7 @@ Binary sort algo is best if we have sorted array
     3.6. Numerical solutions to an equation
     
 
-for finding mid we use 2 formulas
+**Finding mid we use 2 formulas**
 
 1. mid = (Start + end)/2
 2. mid = start + (end -start)/2
