@@ -5,7 +5,7 @@ ________________________________________________________________________________
 - When one function calling another function, all the function from start to that function will stay in stack memory till the function execution will complete.
 - When a function Finishing execution it is removed from stack & the flow of program is restored where that function is called.
 
-**Base condtiom**
+**Base condtion**
 
   It is the condition where our recursion stop making new call.
 
