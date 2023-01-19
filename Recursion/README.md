@@ -7,6 +7,6 @@ ________________________________________________________________________________
 
 **Base condtiom**
 
-  It is the condition where our recursion stop making new call
+  It is the condition where our recursion stop making new call.
 
 - If there will no base condition function call will keep happning and stack will be filled again and again and with every call it will take stack memory and memory will exceed the limit and the error occure called **stack over flow**.
