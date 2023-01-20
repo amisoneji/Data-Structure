@@ -16,7 +16,7 @@ def Bin_with_recur(array,target,start,e)
 end
 
 array = [2,3,5,7,8,9]
-target = 1
+target = 3
 start = 0
 e = array.length
 
